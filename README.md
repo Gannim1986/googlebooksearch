@@ -1,6 +1,8 @@
 # Google Book Search
 
 This project was the homework for week 20 of the Columbia Engineering Coding Boot Camp.
+Github link https://gannim1986.github.io/googlebooksearch/
+Heroku link https://homework-21.herokuapp.com/
 
 
 # Installation and Set-up
@@ -26,5 +28,5 @@ Searched books can be reviewed or saved to purchase when ready
 * CSS
 
 ## Author
-**Irene Bogues** 
+**Ganesh Nimavat** 
 
